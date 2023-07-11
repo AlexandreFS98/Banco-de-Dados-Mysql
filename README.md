@@ -1,5 +1,6 @@
 # Banco-de-Dados-Mysql
 Meu Primeiro Projeto de Banco de Dados 
+
 // 1 - Crie um novo banco de dados no MySQL usando o seguinte comando:
 
 CREATE DATABASE IF NOT EXISTS notas_fiscais;
